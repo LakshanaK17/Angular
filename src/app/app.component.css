@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .form {
+    width: 40%;
+    padding: 20px;
+  }
+  
+  .table {
+    width: 55%;
+    border-collapse: collapse;
+    margin-left: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  .color-blue {
+    color: blue;
+  }
+  
+  .color-red {
+    color: red;
+  }
+  
+  .outlined {
+    border: 2px solid;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .ml-20 {
+    margin-left: 20px;
+  }
+  
